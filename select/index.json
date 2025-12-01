@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "LOVE ROCKETS",
+  "base_artist": "The Birthday",
+  "createdAt": "2025-12-01T23:32:33.672221Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LOVE ROCKETS",
+      "artist": "The Birthday",
+      "has_synced": true,
+      "path": "select/01_LOVE_ROCKETS_The_Birthday.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "20 Killer Hurts (Mixed By Kevin Haskins Of Love & Rockets)",
+      "artist": "Gene Loves Jezebel",
+      "has_synced": false,
+      "path": "select/02_20_Killer_Hurts_(Mixed_By_Kevin_Haskins_Of_Love_&_Rockets)_Gene_Loves_Jezebel.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LOVE ROCKETS",
+      "artist": "The Birthday",
+      "has_synced": true,
+      "path": "select/03_LOVE_ROCKETS_The_Birthday.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Rockets",
+      "artist": "Clear Static",
+      "has_synced": false,
+      "path": "select/04_Love_Rockets_Clear_Static.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOVE ROCKETS",
+      "artist": "The Birthday",
+      "has_synced": false,
+      "path": "select/pl_01_LOVE_ROCKETS_The_Birthday.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "LOVE ROCKETS",
+      "artist": "The Birthday",
+      "has_synced": false,
+      "path": "select/pl_02_LOVE_ROCKETS_The_Birthday.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "LOVE ROCKETS (Movie Ver.)",
+      "artist": "The Birthday",
+      "has_synced": false,
+      "path": "select/pl_03_LOVE_ROCKETS_(Movie_Ver.)_The_Birthday.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "LOVE ROCKETS",
+      "artist": "The Birthday",
+      "has_synced": false,
+      "path": "select/pl_04_LOVE_ROCKETS_The_Birthday.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "LOVE ROCKETS",
+      "artist": "The Birthday",
+      "has_synced": false,
+      "path": "select/pl_05_LOVE_ROCKETS_The_Birthday.txt"
+    }
+  ]
+}
